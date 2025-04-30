@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BebsYanski
+- 👋 Hi, I’m Bebongnchu Yannick Nkwetta
 - 👀 I’m interested in Software Development, Networking, Cybersecurity
 - 🌱 I’m currently learning Javascript, and wish to use it with the React framework to build modern websites.
 - I am interested in cybersecurity a work in progress.
