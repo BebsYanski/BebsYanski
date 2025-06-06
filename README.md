@@ -10,7 +10,7 @@
 
 🛠️ Technologies & Tools
 
-HTML CSS JavaScript React Git Linux Flask SpringBoot FastApi
+#HTML CSS JavaScript React Git Linux Flask SpringBoot FastApi
 
    
 - 📫 How to reach me
