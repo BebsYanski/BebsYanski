@@ -1,44 +1,46 @@
-# 👋 Hi there, I’m Bebongnchu Yannick Nkwetta
+# 👋 Hi there, I'm Bebongnchu Yannick!
 
-I'm a passionate **Software Engineer** with a Bachelor's degree in Computer Engineering (Software Engineering). I thrive on solving real-world problems through technology and am always eager to learn and grow in the ever-evolving tech landscape.
+🎯 **Software Engineer | Full-Stack Developer | Tech Educator**
 
----
-
-## 👨‍💻 About Me
-
-- 🎯 I enjoy designing and implementing effective software solutions.
-- 🌱 Currently working as a **Fullstack Developer** using:
-  - Frontend: **React.js**
-  - Backend: **Flask**, **Spring Boot**, **FastAPI**
-- 🛡️ Aspiring **Cybersecurity Engineer** – a work in progress!
-- 🤝 Open to collaboration on projects and always keen to learn from others.
+I'm passionate about building scalable web applications, teaching technology, and automating workflows.  
+Currently exploring **Next.js**, **Tailwind CSS**, **Flask**, and **DevOps** tools.
 
 ---
 
-## 🛠️ Technologies & Tools
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+## 🚀 Tech Stack
+💻 Languages: JavaScript (ES6+), Python, Bash, C  
+🧩 Frameworks: Next.js, Flask, React, Node.js  
+🎨 Styling: Tailwind CSS, Bootstrap  
+⚙️ Tools: Git, Docker, Linux, VS Code, Postman  
+🗄️ Databases: PostgreSQL, MongoDB  
 
 ---
 
-## 📫 Get in Touch
+## 📊 GitHub Stats
 
-- 📱 **Mobile:** +237 680 062 425  
-- 📧 **Email:** [bebongnchuy@gmail.com](mailto:bebongnchuy@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/bebongnchu-yannick](https://www.linkedin.com/in/bebongnchu-yannick)
+### General Stats 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BebsYanski&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BebsYanski&theme=tokyonight)
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BebsYanski&theme=tokyonight)
 
-**Visit my Portfolio at**
-
-📽️  [my Portfolio](https://portfolio-v1-h66z.onrender.com/)  
+### Top Languages Stats 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BebsYanski&layout=compact&theme=tokyonight)
 
 ---
 
-Thanks for stopping by! 😊
+### 💬 Let's Connect
+📫 [Email Me](mailto:bebongnchuy@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/bebongnchu-yannick/)  
+🌐 [Portfolio](https://portfolio-v1-h66z.onrender.com/)  
+
+---
+
+### 🌱 Currently Learning
+- Advanced **Next.js Server Actions**  
+- **System Architecture & DevOps**  
+- **AI-assisted workflows** for developers  
+
+---
+
+⭐️ *“Code. Teach. Build. Repeat.”*
+
