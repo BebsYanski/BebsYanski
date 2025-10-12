@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: bebongnchu-yannick
+          github_user_name: BebsYanski
           outputs: dist/github-contribution-grid-snake.svg
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
