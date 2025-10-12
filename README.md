@@ -28,6 +28,19 @@ Currently exploring **Next.js**, **Tailwind CSS**, **Flask**, and **DevOps** too
 
 ---
 
+### 🐍 My Contribution Graph (Snake Animation)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BebsYanski/BebsYanski/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BebsYanski/BebsYanski/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/BebsYanski/BebsYanski/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+
 ### 💬 Let's Connect
 📫 [Email Me](mailto:bebongnchuy@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/bebongnchu-yannick/)  
@@ -43,4 +56,3 @@ Currently exploring **Next.js**, **Tailwind CSS**, **Flask**, and **DevOps** too
 ---
 
 ⭐️ *“Code. Teach. Build. Repeat.”*
-
