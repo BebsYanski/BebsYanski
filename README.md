@@ -49,7 +49,7 @@ Currently exploring **Next.js**, **Tailwind CSS**, **Flask**, and **DevOps** too
 ---
 
 ### 🌱 Currently Learning
-- Advanced **Next.js Server Actions**  
+- **Rust Programming Language**  
 - **System Architecture & DevOps**  
 - **AI-assisted workflows** for developers  
 
