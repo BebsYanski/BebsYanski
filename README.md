@@ -8,11 +8,11 @@ Currently exploring **Next.js**, **Tailwind CSS**, **Flask**, and **DevOps** too
 ---
 
 ## 🚀 Tech Stack
-💻 Languages: JavaScript (ES6+), Python, Bash, C  
+💻 Languages: Java, JavaScript (ES6+), Rust, Python, Bash, C  
 🧩 Frameworks: Next.js, Flask, React, Node.js  
 🎨 Styling: Tailwind CSS, Bootstrap  
 ⚙️ Tools: Git, Docker, Linux, VS Code, Postman  
-🗄️ Databases: PostgreSQL, MongoDB  
+🗄️ Databases: PostgreSQL, MySQL
 
 ---
 
